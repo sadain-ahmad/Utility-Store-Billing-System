@@ -48,6 +48,7 @@ python billing system.py
 ## 📷 Sample Output
 
 Input name of item 1 : Apples
+
 Input quantity of item 1 : 2
 Input Price of item 1 : 1.5
 Add more item? (y/n) y
